@@ -3231,8 +3231,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -179, y: 114.32}
-  m_SizeDelta: {x: 136.3327, y: 38.3532}
+  m_AnchoredPosition: {x: -532.72, y: 301.73}
+  m_SizeDelta: {x: 268.5552, y: 146.5351}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &453835000
 MonoBehaviour:
@@ -3281,18 +3281,18 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 30
+    m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 3
-    m_MaxSize: 50
+    m_MaxSize: 70
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
+  m_Text: 0
 --- !u!222 &453835003
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8082,9 +8082,9 @@ Camera:
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.13650307
+    x: 0
     y: 0
-    width: 0.72801626
+    width: 1
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
